@@ -11,6 +11,6 @@ Zzz...
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
+### Z
 
 ![2f0ea985062b9a5179c7760642367bf8](https://github.com/user-attachments/assets/b9ea9d16-1a16-4c58-a517-cd262b610604)
