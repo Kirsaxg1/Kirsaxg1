@@ -1,33 +1,18 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kirsaxg1)](https://git.io/streak-stats)
+# 💫About Me :
+Zzz...
 
-name: 📅 Isometric commit calendar
-category: github
-description: |
-  This plugin displays an isometric view of a user commit calendar along with a few additional statistics like current streak and average number of commit per day.
-examples:
-  +full year calendar: https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg
-  half year calendar: https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg
-index: 0
-supports:
-  - user
-scopes:
-  - public_access
-inputs:
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Kirsaxg1&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kirsaxg1&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirsaxg1&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-  plugin_isocalendar:
-    description: |
-      Enable isocalendar plugin
-    type: boolean
-    default: no
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-  plugin_isocalendar_duration:
-    description: |
-      Time range
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-      - `half-year`: 180 days
-      - `full-year`: 1 year
-    type: string
-    default: half-year
-    values:
-      - half-year
-      - full-year
+---
+[![](https://visitcount.itsvg.in/api?id=Kirsaxg1&icon=0&color=10)](https://visitcount.itsvg.in)
