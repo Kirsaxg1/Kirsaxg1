@@ -12,4 +12,5 @@ Zzz...
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-[<img src="https://random-memer.herokuapp.com/" width="512px"/>](https://ru.pinterest.com/pin/26599454044786397/)
+
+![Uploading 2f0ea985062b9a5179c7760642367bf8.jpg…]()
