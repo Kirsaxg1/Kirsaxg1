@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫About Me : Ama rock star
 Zzz...
 
 # 💻Tech Stack
