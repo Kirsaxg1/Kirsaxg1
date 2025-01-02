@@ -13,4 +13,4 @@ Zzz...
 
 ### 😂Random Dev Meme
 
-<img src="./images/equation-1.gif" style="display: block; margin: auto;" />
+<img src=".C:\Users\GIGABYTE\Downloads\2f0ea985062b9a5179c7760642367bf8.jpg" style="display: block; margin: auto;" />
