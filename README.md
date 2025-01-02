@@ -13,4 +13,4 @@ Zzz...
 
 ### 😂Random Dev Meme
 
-<img src=".C:\Users\GIGABYTE\Downloads\2f0ea985062b9a5179c7760642367bf8.jpg" style="display: block; margin: auto;" />
+![2f0ea985062b9a5179c7760642367bf8](https://github.com/user-attachments/assets/b9ea9d16-1a16-4c58-a517-cd262b610604)
